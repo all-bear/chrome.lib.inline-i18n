@@ -1,0 +1,16 @@
+{
+  "name": "chrome-lib-inline-i18n",
+  "description": "Inline (.html files) translates lib for chrome extensions",
+  "license": "MIT",
+  "keywords": [
+    "chrome",
+    "i18n",
+    "translate"
+  ],
+  "main": "dist/js/i18n.js",
+  "ignore": [
+    "node_modules"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

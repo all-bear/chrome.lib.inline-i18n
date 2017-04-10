@@ -5,7 +5,7 @@ For translate you need to add `data-translate="your_message_code_from_locale_fil
 ```javascript
 <span class="label" data-translate="appName"></span>
 
-<script src="../bower_components/chrome-lib-inline-i18n/dist/js/chrome-lib-inline-i18n.min.js"></script>
+<script src="../bower_components/chrome-lib-inline-i18n/dist/js/i18n.js"></script>
 <script>
 InlineI18n.render();
 </script>
